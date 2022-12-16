@@ -1,0 +1,4 @@
+#Sat Sep 17 13:19:55 SGT 2022
+base.0=C\:\\Users\\PC 14\\StudioProjects\\i_am_rich\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
